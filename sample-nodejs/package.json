@@ -1,0 +1,21 @@
+{
+  "name": "sample-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "expressjs": "^1.0.1",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/lodash": "^3.10.1"
+  }
+}

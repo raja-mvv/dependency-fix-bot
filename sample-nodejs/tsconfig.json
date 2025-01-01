@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "sourceMap": true,
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "src/**/*" // Include all files in the 'src' directory
+  ],
+  "exclude": [
+    "node_modules" // Exclude the 'node_modules' directory
+  ]
+}
